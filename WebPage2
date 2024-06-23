@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration</title>
+    </head>
+
+    <body>
+        <center>
+            <h1> Error Makes Clever Academy 🚀</h1>
+            <h3>Free Guides | Training | Tech News</h3>
+            <h3>Empowering youth developers to level up their skills through training in software development technologies</h3>
+            <hr>
+            <h3>Student Registration form</h3>
+        </center>
+        <form>
+            <center>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" placeholder="Enter your Name"></td>
+                </tr>
+                <tr>
+                    <td>Age:</td>
+                    <td><input type="number" placeholder="Enter your Age"></td>
+                </tr>
+                <tr>
+                    <td>Institution:</td>
+                    <td><input type="text" placeholder="Enter your Institute Name"></td>
+                </tr>
+                <tr>
+                    <td>Gender:</td>
+                    <td>
+                        <input type="radio" name="gender" > Male 
+                        <input type="radio" name="gender" > Female 
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="text" placeholder="Enter your MailId"></td>
+                </tr>
+                <tr>
+                    <td>Select a Course: </td>
+                    <td>
+                    <select>
+                        <option>Python</option>
+                        <option>Java</option>
+                        <option>MySql</option>
+                        <option>DBMS</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td> Upload your Resume:  </td>
+                    <td> <input type="file"> </td>
+                </tr>
+                <tr> 
+                    <td> <input type="Submit"> </td>
+                    <td> <input type="Reset"> </td>
+                </tr>
+            </table>
+            </center>
+        </form>
+        <hr>
+        <center>
+            <h3>
+            <a href="file:///C:/Users/Guna%20Tanu/Desktop/html%20tutorial/Html%20WebPage/WebPage1">Go to Home | </a>
+            <a href="https://www.instagram.com/errormakesclever/?hl=en">Instagram | </a>
+            <a href="https://www.youtube.com/@ErrorMakesClever">Youtube</a>
+            </h3>
+        </center>
+        <hr>
+    </body>
+</html>

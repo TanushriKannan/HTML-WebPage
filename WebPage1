@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Full Stack Development</title>
+        <link rel="icon" href="computer-icon-free-vector.jpg">
+    </head>
+    <body>
+        <center>
+            <h1>Upcoming Events 📅</h1>
+            <h2>Don't miss any of your important Events. Stay updated </h2>
+            <h3>Empowering youth developers to level up their skills through training in software development technologies</h3>
+        </center>
+        <hr>
+        <p style="font-size: 17px">Our Online Full Stack Development Course, starting on July 1st, covers everything needed to become a proficient full stack developer. It begins with front-end development (HTML, CSS, JavaScript, React) and progresses to back-end (Node.js, Express.js), including database management (SQL, NoSQL). The course emphasizes practical skills through hands-on projects, covering RESTful API design, authentication, security, version control (Git, GitHub), and deployment (AWS, Heroku). Participants benefit from mentorship, community support, and regular assessments. By the end, learners will have a comprehensive skill set and portfolio, ready for a full stack development career. Enroll now to secure your spot!</p>
+        <center>
+        <img src="fullstack.webp" width="800px"><br>
+        <h2>
+        <a href="https://www.youtube.com/watch?v=5QzzeYHApV0&list=PLvepBxfiuao3jIS6olgw_zKRjfHy4ZOyU">Full Stack Development PlayList</a>
+        </h2>
+        <h3>Free Guides | Training | Tech News</h3>
+        </center>
+        <p style="font-size:17px">In the video, I've covered the fundamental aspects of Full Self-Driving (FSD). Starting with an overview of its capabilities, I delve into how FSD enhances driving automation, safety features, and its potential impact on the future of transportation. Explaining the technology behind it, I explore key components such as sensors, algorithms, and real-time data processing. Lastly, I discuss challenges and advancements in FSD development, offering insights into its evolving landscape and implications for everyday commuting and beyond.</p>
+        <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DOIVEsW778U?si=lm7G0OrkdBYnSuFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </center>
+        <h3>Lets Divide the full Stack into 3 parts</h3>
+        <ul>
+            <li>Frontend</li>
+            <li>Backend</li>
+            <li>DataBase</li>
+        </ul>
+        <h3>Technologies Used for Full Stack Development</h3>
+        <table border="1">
+            <tr>
+                <td>Frontend</td>
+                <td>Backend</td>
+                <td>Database</td>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td>Java</td>
+                <td>MangoDB</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Python</td>
+                <td>MySQL</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td>NodeJS</td>
+                <td>AWS</td>
+            </tr>
+        </table>
+        <br><br>
+        <center>
+        <h3>
+        <a href="file:///C:/Users/Guna%20Tanu/Desktop/html%20tutorial/Html%20WebPage/WebPage2">Register the course | </a>
+        <a href="https://www.instagram.com/errormakesclever/?hl=en">Instagram | </a>
+        <a href="https://www.youtube.com/@ErrorMakesClever">Youtube</a>
+        </h3>
+        </center>
+    </body>
+</html>
